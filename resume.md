@@ -1,6 +1,6 @@
 ---
 layout: description
-Title: My Curriculum Vitae
+Title: CV
 permalink: /CV/
 ---
 
