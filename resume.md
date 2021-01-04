@@ -4,4 +4,4 @@ Title: CV
 permalink: /CV/
 ---
 
-# I'd put here my resume if I had one
+## I'd put here my resume if I had one
