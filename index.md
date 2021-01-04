@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Things I research and others. Come in!
+home_text: Oh. Is this online? Come in!
 title: Julio Rodiño
 ---
