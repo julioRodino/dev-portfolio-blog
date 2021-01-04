@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: How did you get here? - Me
+home_text: Biochemistry student, Neuroscience Research, enthusiast programer among other things
 title: Julio Rodiño
 ---
