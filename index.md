@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: “The mystery of life isn't a problem to solve, but a reality to experience.” - Frank Herbert, Dune
+home_text: Welcome to the little corner where I store things
 title: Julio Rodiño
 ---
