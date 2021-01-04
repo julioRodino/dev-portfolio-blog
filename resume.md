@@ -1,5 +1,5 @@
 ---
-layout: Description
+layout: description
 Title: My Curriculum Vitae
 permalink: /CV/
 ---
